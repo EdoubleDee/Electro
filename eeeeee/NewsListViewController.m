@@ -17,7 +17,7 @@
 @implementation NewsListViewController
 
 
-NSString *globalString = @""; //title of NewsItemView
+NSString *globalString = @" "; //title of NewsItemView
 
 @synthesize news;
 @synthesize newsTable;
